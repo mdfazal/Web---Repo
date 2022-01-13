@@ -6,10 +6,8 @@ All the web related tutorial code
 Colt Steele
 
 1. HTML
-<<<<<<< HEAD
-4. Javascript
-=======
 2. CSS
 3. Bootstrap
+4. Javascript
 
->>>>>>> e5343fcef4dfc32f2902ca402b5544debaaf1544
+
