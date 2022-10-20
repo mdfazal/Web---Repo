@@ -11,7 +11,7 @@ Colt Steele
 4. Javascript
 <<<<<<< HEAD
 5. React
-=======
+=
 
 >>>>>>> 6451990614fbcb2272233f538d6463b2b7ae2ed9
 
