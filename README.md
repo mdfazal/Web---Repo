@@ -10,7 +10,7 @@ Colt Steele
 3. Bootstrap
 4. Javascript
 <<<<<<< HEAD
-5. Reactt
+5. React
 =
 
 >>>>>>> 6451990614fbcb2272233f538d6463b2b7ae2ed9
